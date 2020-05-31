@@ -1,5 +1,5 @@
 {
-  "name": "countdown",
+  "name": "countdown-tmr",
   "version": "1.0.0",
   "description": "Simple, lightweight and very easy to use JS Countdown package.",
   "main": "index.js",

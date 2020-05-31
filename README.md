@@ -3,9 +3,9 @@ Simple, lightweight and very easy to use Countdown package.
 
 ## Installation
 ```
-npm install countdown
+npm install countdown-tmr
 
-import Countdown from 'countdown';
+import Countdown from 'countdown-tmr';
 ```
 
 ```javascript
